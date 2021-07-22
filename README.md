@@ -1,2 +1,2 @@
-# Stellar-App
----
+# Stellar-app
+project app
